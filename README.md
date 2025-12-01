@@ -36,6 +36,7 @@
    3. [ReLU](#53-relu)
       1. [Leaky ReLU](#531-leaky-relu)
       2. [GELU](#532-gelu)
+6. [역사](#6-역사)
 
 ## 1. 개요
 
@@ -252,3 +253,5 @@ ReLU의 변형이다. 식은 다음과 같다.
 $$
 f(x) = \frac{1}{2}x\bigg(1 + erf\Big(\frac{x}{\sqrt{2}}\Big)\bigg)
 $$
+
+## 6. 역사
